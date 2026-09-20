@@ -9,7 +9,7 @@ Machine learning engineer and applied scientist, finishing an M.S. in Data Scien
 
 I build models and then check whether their numbers mean what they appear to. My projects tend to end with an audit: a simple baseline that explains a headline metric, a domain gap a public benchmark hid, or a result that didn't survive more random seeds.
 
-**Currently:** Learning Javascript, React, and Next.js. Open to ML engineer and applied scientist roles.
+**Currently:** Learning Javascript, React, and Next.js. 
 
 [**Portfolio**](https://tyhobbs.vercel.app) · [**Case studies**](https://tyhobbs.vercel.app/work) · [**Hugging Face**](https://huggingface.co/tyhob) · [**LinkedIn**](https://www.linkedin.com/in/tylerhobbs2/)
 
